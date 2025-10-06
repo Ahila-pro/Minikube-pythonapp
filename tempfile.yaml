@@ -1,0 +1,4 @@
+#this file is create for temporary purpose
+enabled: false
+  # Used to create an Ingress record.
+  # More information can be found here: https://kubernetes.io/docs/concepts/services-networking/ingress/
